@@ -16,6 +16,8 @@ Not everyone who acts in the following ways may be deliberately trying to manipu
 
 This is a list of things you can think about, to help you increase your safety.
 
+
+
 If you are still in the relationship:
 
 * Think about the different options available to you
