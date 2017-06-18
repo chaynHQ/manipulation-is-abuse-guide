@@ -1,37 +1,42 @@
 # Manipulation is abuse
 
-A friendly guide from your friends at CHAYN
+How to identify manipulative situations and people, & how to deal with them. Crowdsourced by survivors.
 
 ## Hello.
 
-### This guide is about identifying manipulative situations and finding support to remove yourself from these abusive relationships… {#this-guide-is-about-identifying-manipulative-situations-and-finding-support-to-remove-yourself-from-these-abusive-relationships}
+### This guide will help you identify manipulative situations and find support to get yourself out of a controlling relationship.
 
 | **A healthy relationship is...** | A healthy relationship is _**not**_…. |
 | --- | --- |
-| ...balanced and equal. You feel you can express and act on your own opinions and views without fear of repercussions from the significant other in the relationship. | ...if you feel you are being used for the benefit of the other person in the relationship, at the cost of your emotional wellbeing. If you feel like this, you are most likely being manipulated, or in a manipulative situation. |
+| .....balanced and equal. You feel that you can express your views and opinions freely and act on them without fearing a negative reaction. | ...feeling that you are being used by someone that your emotional wellbeing is the cost for their happiness. If you feel like this, you are most likely being manipulated and are in an abusive situation. |
 
-* A manipulative relationship is one-sided and unstable
-* A mnipulative relationship is not limited to a romantic relationship. It is a relationship where you feel you are being emotionally abused or manipulated into actions and situations where you feel physical and / or emotional distress. Partners, family, carers, friends, colleagues and teachers could all be responsible.
+A controlling relationship is one-sided and unstable.
 
-|  | **MANIPULATION** |
-| :--- | :--- |
-| **PSYCHOLOGICAL MANIPULATION** | **EMOTIONAL MANIPULATION** |
+A controlling relationship does not have to be  romantic. It is a relationship where you feel you are being emotionally abused or manipulated into doing things (or put into situations)that make you feel physically and / or emotionally distressed. 
 
-* Manipulation intends to coerce you. It is the use of force or intimidation to obtain compliance
-* Some countries are already including manipulation and coercive control into their laws. For instance, abusers who control their victims through social media accounts or spy on them online could now face up to five years in prison in the UK.
+Partners, family members, carers, friends, colleagues to even teachers: anyone could be manipulating you.
 
-This guide has been crowdsourced by [Chayn](http://chayn.co/) volunteers.
+MANIPULATION:
+the action of indirectly interfering with the decision-making process of another person, particularly in a clever or unscrupulous way.
 
-This crowdsourced information is here to help you find as much of the relevant literature, research and support resources we have started to gather. Get in touch if there is more that we can add.
+PSYCHOLOGICAL MANIPULATION
+can be abusive, deceptive and sneaky, to make you behave the way the perpetrator wants.
+
+EMOTIONAL MANIPULATION
+is meant to confuse you and leave you off-balance, and is often very subtle and deceptive
+
+This guide has been crowdsourced by [Chayn](http://chayn.co/) volunteers, many of which are survivors of abuse, to help signpost you towards as many of the relevant resources we’ve been able to gather. [Get in touch](https://www.facebook.com/chayn/) if there’s more that we can add. Throughout the guide, we will be using controlling and manipulative interchangeably.
+
 
 ### Who this guide is for:
 
-We are all susceptible to being manipulated in relationships. Men and women can be victims of manipulative relationships. However, statistics show that women and girls are disproportionately affected by crimes of domestic violence and abuse.
-
-There are various socio-economic factors that affect the ability and willingness of some groups to recognise or report abusive behaviour. Perpetrators may try to exploit such situations in order to maintain control, or try to prevent their targets from seeking help.
-
-Some groups are more vulnerable to finding themselves in these manipulative relationships, including \(but not limited to\):
-
+We are all at risk of being controlled, regardless of our gender identity or sexual orientation.
+It’s not easy to identify abuse in your relationships, especially where there are emotions involved. And it becomes even harder when the perpetrator is not physically harming you. But let’s get one thing straight: mental abuse caused by manipulation is equally harmful. 
+ 
+Moreover there are various social and economic factors that can have an impact some people’s ability to identify and report abuse. 
+Sadly, if the manipulator is aware of these vulnerabilities, they may try to exploit them  to maintain control over you.
+ 
+We know that women are more likely to experience abuse but there are other factors that we need to keep in mind. Some groups are more vulnerable than others when it comes to controlling relationships, including (but not limited to):
 * Minorities and marginalised groups
 * Recent immigrants
 * Elders who are facing abuse and manipulation from caregivers
@@ -40,11 +45,9 @@ Some groups are more vulnerable to finding themselves in these manipulative rela
 * LGBTQ+
 * Physically disabled
 
-If you are in an abusive relationship with anyone, you deserve to get the help you need.
+Here’s the bottom line: If you are in an abusive relationship with anyone, you deserve to get the help you need. 
 
-### **Every person has a right to** {#every-person-has-a-right-to}
-
-### **live a life free from abuse.** {#live-a-life-free-from-abuse}
+### Every person has a right to live a life free from abuse.
 
 
 
