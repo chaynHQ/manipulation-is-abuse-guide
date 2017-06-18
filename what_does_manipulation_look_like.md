@@ -14,9 +14,9 @@ Do any of these sound familiar to you in any of your relationships?
 
 ## Controlling other people’s perceptions of you
 
+![](/assets/they_only_like_you_because_I_lie_to_them_about_you.gif)
 
-
-This might sound like: _“They only like you because I lie to them about you!”_
+### This might sound like: _“They only like you because I lie to them about you!”_
 
 This could include spreading misinformation about you to others, and / or emphasising to you that others’ good opinion of you is entirely dependent on their representation of you, and that you have them to thank for your own success.
 
@@ -24,15 +24,19 @@ This could include spreading misinformation about you to others, and / or emphas
 
 ## **Isolation**
 
-**This might sound like: "I don't like your parents, they are not good to you and I don't want you to see them”, or telling you which friends you’re allowed to see.**
+![](/assets/everyone_knows_you_are_bad.gif)
 
-
+### **This might sound like: "I don't like your parents, they are not good to you and I don't want you to see them”, or telling you which friends you’re allowed to see.**
 
 ---
 
 ## **Financial control**
 
-This might sound like:"You spend too much on yourself" / "Dear, you know you can't be trusted with money. It's best that I'm in charge."Manipulative people will use financial control methods to gain power and control in relationships.
+![](/assets/quit_your_job.gif)
+
+### This might sound like:"You spend too much on yourself" / "Dear, you know you can't be trusted with money. It's best that I'm in charge."
+
+Manipulative people will use financial control methods to gain power and control in relationships.
 
 Financial abuse is one of the most powerful ways to keep someone trapped in a relationship, and can take subtle or overt forms to limit access to assets and accessibility to family finances. This is intentional and is used to entrap you in the relationship.
 
@@ -40,9 +44,9 @@ Financial abuse is one of the most powerful ways to keep someone trapped in a re
 
 ## **Dependence**
 
+![](/assets/what_would_I_do_without_you.gif)
 
-
-This might come out in the form of drastic statements about what the manipulator might do if you don’t do what they ask, or over-reactions , such as obsessively calling you if you don’t answer at first.
+### This might come out in the form of drastic statements about what the manipulator might do if you don’t do what they ask, or over-reactions, such as obsessively calling you if you don’t answer at first.
 
 This could be a form of emotional blackmail and might appear in exaggerated, dramatic language that makes you feel as though the other person’s wellbeing is entirely your responsibility.
 
@@ -50,9 +54,9 @@ This could be a form of emotional blackmail and might appear in exaggerated, dra
 
 ## **Using your beliefs to control you**
 
+![](/assets/terrible.gif)
 
-
-This might sound like: “How will I get to heaven if I have a child like you?!” / “You have no respect and will never pray for me when I am gone.”This exploits your beliefs for the benefit of the manipulator,resulting in controlling you and your actions.
+## This might sound like: “How will I get to heaven if I have a child like you?!” / “You have no respect and will never pray for me when I am gone.”This exploits your beliefs for the benefit of the manipulator,resulting in controlling you and your actions.
 
 They may refer to your faith or a higher calling as the reason you need to do something, in order to achieve their own goals.
 
@@ -60,9 +64,9 @@ They may refer to your faith or a higher calling as the reason you need to do so
 
 ## **Not allowed to defend yourself**
 
-## 
+## ![](/assets/you_dont_respect_elders.gif)
 
-This might sound like: “I’m sure he / she only has your best interests at heart” / “What did you do to make them feel like that?”
+### This might sound like: “I’m sure he / she only has your best interests at heart” / “What did you do to make them feel like that?”
 
 Controlling people may make themselves out to be the victim to avoid taking responsibility for their own actions. They may react to your defence- in family situations this can be seen as “talking back”, and is seen as a sign of insolence and disrespect from you.
 
@@ -72,37 +76,45 @@ They will act as though you are the one who has done something wrong and hurt th
 
 ## **People will defend your abuser**
 
+![](/assets/what_did_you_do.gif)
 
-
-#### **This might sound like: “I’m sure he / she only has your best interests at heart” / “What did you do to make them feel like that?” / “he / she only yelled at you because you made him / her so angry with what you did”**
+### **This might sound like: “I’m sure he / she only has your best interests at heart” / “What did you do to make them feel like that?” / “he / she only yelled at you because you made him / her so angry with what you did”**
 
 What happens? Others around you may not realise the extent or persistence of the manipulative person’s behaviour, as they may be an expert at hiding it from others, or they believe the abuser’s lies about you, and may have the same beliefs as the abuser but not agree with their methods.
 
 ---
 
+ 
+
 ## **Keeping the status quo is more important than your health**
 
-## 
+## ![](/assets/old_and_set_in_their_ways.gif)
 
-#### **This might sound like: “They are old and set in their ways, it’s our culture.” / “They only want the best for you, I can’t believe you are being so dramatic about this / mean to them.”**
+### **This might sound like: “They are old and set in their ways, it’s our culture.” / “They only want the best for you, I can’t believe you are being so dramatic about this / mean to them.”**
 
 What happens?People may make excuses for an abuser's behaviour, even if they know the damage they are inflicting. They will ignore the issue, make excuses, believe the abuser’s lies about you, and in certain cultural contexts, may not agree with the abuser’s methods but fundamentally have the same beliefs as the abuser.
 
 ---
 
+ 
+
 ## **Silent treatment**
 
+![](/assets/doesn_t_matter_that_I_m_upset.gif)
 
-
-#### **This might sound like: “Why am I such an awful person…” / “How can I make this better…” / “It doesn’t matter I’m upset because I’ve made them angry…”**
+### **This might sound like: “Why am I such an awful person…” / “How can I make this better…” / “It doesn’t matter I’m upset because I’ve made them angry…”**
 
 What happens? Controlling people may stop talking to you completely to exert pressure upon you, and to coerce you into what they want you to do, and see how long it will take before you break down. One person shares:“My very first boyfriend did this when I didn't want to have sex. He literally turned his back on me, and didn't respond to anything until I agreed to have sex. No violence involved, but very damaging still…”
 
+
+
 ---
+
+ 
 
 ## **The ‘no way out’ question**
 
-## 
+## ![](/assets/how_could_you_say_this_to_me.gif)
 
 #### **This might sound like: “How could you say that to me?”**
 
@@ -168,12 +180,5 @@ What happens? These generalise a person’s character or behaviour in a negative
 
 What happens? Manipulators will invalidate your feelings. This happens when we recognise emotions, positive or negative, coming out of a person, and either discount, belittle, minimise, ignore or negatively judge these feelings.
 
-
-
 _If these behaviours seem familiar to you, you could be in a controlling relationship. We have gathered a non-exhaustive list of resources and useful information for you in this guide. Let us know of any others you think would be helpful to add by _[_getting in touch_](mailto:team@chayn.co)_. You can also add _[_lovedoctorin_](http://lovedoctor.in/) _on Snapchat for confidential counselling and check out _[_chayn.co_](http://chayn.co/) _for more information._
-
-  
-
-
-
 
