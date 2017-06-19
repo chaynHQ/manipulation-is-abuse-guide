@@ -8,10 +8,11 @@
 /* body font */ 
 h1 { font-size: 3em; font-family: "Homemade Apple";}
 h2 { font-size: 2em; font-family: "Fredoka One";}
-h3 { font-size: 1.5em; font-family: "Fredoka One";}
+h3 { font-size: 1em; font-family: "Helvetica"; font-weight: 200;}
+h4 { font-size: 0.8em; font-family: "Helvetica"; font-weight: 200;}
 body, * { font-family: Helvetica, sans-serif; font-size: 16px; font-weight: 200; }
 
-/* table of contents */.book-summary{ background-color: #ffe6d5;}
+/* table of contents */.book-summary{ background-color: #f87e62;}
 
 /* search bar */
 #book-search-input input, #book-search-input input:focus, #book-search-input input:hover { width: 100%; background: 0 0; border: 3px solid black; box-shadow: none; outline: 0; line-height: 22px; padding: 7px 7px; color: inherit;
