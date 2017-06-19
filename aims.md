@@ -1,8 +1,8 @@
 # What the guide is for {#aims-of-this-guide}
 
-> ### Ever felt like someone knew how to push your buttons and despite how uncertain you were of believing or doing something, somehow they were able to make you believe or do something else? Ever felt like someone was trying to control you or force you into situations you do not wish to participate in?
+> _Ever felt like someone knew how to push your buttons and despite how uncertain you were of believing or doing something, somehow they were able to make you believe or do something else? Ever felt like someone was trying to control you or force you into situations you do not wish to participate in?_
 
-#### 
+
 
 #### **You could be dealing with a controlling person and have found yourself in a manipulative relationship.**
 
