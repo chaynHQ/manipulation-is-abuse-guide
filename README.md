@@ -21,10 +21,10 @@ Partners, family members, carers, friends, colleagues to even teachers: anyone c
 > _MANIPULATION_:  
 > **the action of indirectly interfering with the decision-making process of another person, particularly in a clever or unscrupulous way.**
 >
-> _PSYCHOLOGICAL MANIPULATION        
+> _PSYCHOLOGICAL MANIPULATION          
 > _**can be abusive, deceptive and sneaky, to make you behave the way the perpetrator wants.**
 >
-> _EMOTIONAL MANIPULATION        
+> _EMOTIONAL MANIPULATION          
 > _**is meant to confuse you and leave you off-balance, and is often very subtle and deceptive**
 
 This guide has been crowdsourced by [Chayn](http://chayn.co/) volunteers, many of which are survivors of abuse, to help signpost you towards as many of the relevant resources we’ve been able to gather. [Get in touch](https://www.facebook.com/chayn/) if there’s more that we can add. Throughout the guide, we will be using controlling and manipulative interchangeably.
