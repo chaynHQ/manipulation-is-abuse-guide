@@ -21,10 +21,10 @@ Partners, family members, carers, friends, colleagues to even teachers: anyone c
 > _MANIPULATION_:  
 > **the action of indirectly interfering with the decision-making process of another person, particularly in a clever or unscrupulous way.**
 >
-> _PSYCHOLOGICAL MANIPULATION  
+> _PSYCHOLOGICAL MANIPULATION    
 > _**can be abusive, deceptive and sneaky, to make you behave the way the perpetrator wants.**
 >
-> _EMOTIONAL MANIPULATION  
+> _EMOTIONAL MANIPULATION    
 > _**is meant to confuse you and leave you off-balance, and is often very subtle and deceptive**
 
 This guide has been crowdsourced by [Chayn](http://chayn.co/) volunteers, many of which are survivors of abuse, to help signpost you towards as many of the relevant resources we’ve been able to gather. [Get in touch](https://www.facebook.com/chayn/) if there’s more that we can add. Throughout the guide, we will be using controlling and manipulative interchangeably.
@@ -34,18 +34,12 @@ This guide has been crowdsourced by [Chayn](http://chayn.co/) volunteers, many o
 We are all at risk of being controlled, regardless of our gender identity or sexual orientation.  
 It’s not easy to identify abuse in your relationships, especially where there are emotions involved. And it becomes even harder when the perpetrator is not physically harming you. But let’s get one thing straight: mental abuse caused by manipulation is equally harmful.
 
-Moreover there are various social and economic factors that can have an impact some people’s ability to identify and report abuse.   
+Moreover there are various social and economic factors that can have an impact some people’s ability to identify and report abuse.  
 Sadly, if the manipulator is aware of these vulnerabilities, they may try to exploit them  to maintain control over you.
 
 We know that women are more likely to experience abuse but there are other factors that we need to keep in mind. Some groups are more vulnerable than others when it comes to controlling relationships, including \(but not limited to\):
 
-* > Minorities and marginalised groups
-  > Recent immigrants
-  > Elders who are facing abuse and manipulation from caregivers
-  > Parents in fear of losing children
-  > Individuals in forced marriages
-  > LGBTQ+
-  > Physically disabled
+* > Minorities and marginalised groups Recent immigrants Elders who are facing abuse and manipulation from caregivers Parents in fear of losing children Individuals in forced marriages LGBTQ+ Physically disabled
 
 Here’s the bottom line: If you are in an abusive relationship with anyone, you deserve to get the help you need.
 
