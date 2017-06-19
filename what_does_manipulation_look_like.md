@@ -116,11 +116,7 @@ What happens? Controlling people may stop talking to you completely to exert pre
 
 What happens? You might think you are given a choice by being asked a question but the answer has already been decided by the manipulator. Usually, after such a question, there is a pause and people are programmed to respond to a conversational pause by offering to help, hence you might just do whatever the manipulator wants you to do.
 
-
-
 ---
-
- 
 
 ## A question disguised as a statement
 
@@ -130,11 +126,7 @@ What happens? You might think you are given a choice by being asked a question b
 
 What happens? Manipulative people avoid asking questions because they do not want to lose control. So instead they frame statements as questions.
 
-
-
 ---
-
- 
 
 ## Lies
 
@@ -144,11 +136,7 @@ What happens? Manipulative people avoid asking questions because they do not wan
 
 What happens? Manipulators may react aggressively to avoid answering as they may fear loss of control. They may even shift the focus onto you by asking you questions, or may start accusing you or even change the subject completely.
 
-
-
 ---
-
- 
 
 ## Guilt-tripping
 
@@ -158,11 +146,7 @@ What happens? Manipulators may react aggressively to avoid answering as they may
 
 What happens? Controlling people use statements to make you feel guilty about doing or not doing something.
 
-
-
 ---
-
- 
 
 ## Normalisation
 
@@ -172,11 +156,7 @@ What happens? Controlling people use statements to make you feel guilty about do
 
 What happens? Normalisation refers to social processes through which ideas and actions are seen as culturally “normal” in everyday life. Manipulative people take full advantage of this and use it against you.
 
-
-
 ---
-
- 
 
 ## Universal statements
 
@@ -186,11 +166,7 @@ What happens? Normalisation refers to social processes through which ideas and a
 
 What happens? These generalise a person’s character or behaviour in a negative way. They often involve the use of words such as “always,”“never,”“again,”“so,”“every time,”“such as,” and “everyone.”
 
-
-
 ---
-
- 
 
 ## Invalidate feelings
 
@@ -200,5 +176,11 @@ What happens? These generalise a person’s character or behaviour in a negative
 
 What happens? Manipulators will invalidate your feelings. This happens when we recognise emotions, positive or negative, coming out of a person, and either discount, belittle, minimise, ignore or negatively judge these feelings.
 
-_If these behaviours seem familiar to you, you could be in a controlling relationship. We have gathered a non-exhaustive list of resources and useful information for you in this guide. Let us know of any others you think would be helpful to add by _[_getting in touch_](mailto:team@chayn.co)_. You can also add _[_lovedoctorin_](http://lovedoctor.in/) _on Snapchat for confidential counselling and check out _[_chayn.co_](http://chayn.co/) _for more information._
+---
+
+## If these behaviours seem familiar to you, you could be in a controlling relationship. 
+
+We have gathered a non-exhaustive list of resources and useful information for you in this guide. Let us know of any others you think would be helpful to add by [getting in touch](mailto:team@chayn.co). You can also add [lovedoctorin](http://lovedoctor.in/) on Snapchat for confidential counselling and check out [chayn.co](http://chayn.co/) for more information.
+
+
 
