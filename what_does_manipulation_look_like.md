@@ -1,10 +1,10 @@
 # What does manipulation look like? {#what-does-manipulation-look-like}
 
 ```
-Manipulation in any situation, resulting in control of your behaviour, thoughts and actions, is a sign of an unhealthy and unbalanced / one-sided relationship
+
 ```
 
-There is a difference between healthy social influence and psychological manipulation.
+Manipulation in any situation, resulting in control of your behaviour, thoughts and actions, is a sign of an unhealthy and unbalanced / one-sided relationship. There is a difference between healthy social influence and psychological manipulation
 
 Healthy social influence is part of the give and take of constructive relationships. In psychological manipulation, one person is used for the benefit of another. The manipulator deliberately creates an imbalance of power, and exploits to serve their own agenda.
 
@@ -16,11 +16,15 @@ Do any of these sound familiar to you in any of your relationships?
 
 ![](/assets/they_only_like_you_because_I_lie_to_them_about_you.gif)
 
-### This might sound like: _“They only like you because I lie to them about you!”_
+#### This might sound like: “They only like you because I lie to them about you!”
 
 This could include spreading misinformation about you to others, and / or emphasising to you that others’ good opinion of you is entirely dependent on their representation of you, and that you have them to thank for your own success.
 
+
+
 ---
+
+ 
 
 ## **Isolation**
 
@@ -84,8 +88,6 @@ What happens? Others around you may not realise the extent or persistence of the
 
 ---
 
- 
-
 ## **Keeping the status quo is more important than your health**
 
 ## ![](/assets/old_and_set_in_their_ways.gif)
@@ -96,8 +98,6 @@ What happens?People may make excuses for an abuser's behaviour, even if they kno
 
 ---
 
- 
-
 ## **Silent treatment**
 
 ![](/assets/doesn_t_matter_that_I_m_upset.gif)
@@ -106,11 +106,7 @@ What happens?People may make excuses for an abuser's behaviour, even if they kno
 
 What happens? Controlling people may stop talking to you completely to exert pressure upon you, and to coerce you into what they want you to do, and see how long it will take before you break down. One person shares:“My very first boyfriend did this when I didn't want to have sex. He literally turned his back on me, and didn't respond to anything until I agreed to have sex. No violence involved, but very damaging still…”
 
-
-
 ---
-
- 
 
 ## **The ‘no way out’ question**
 
