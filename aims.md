@@ -1,8 +1,10 @@
 # What the guide is for {#aims-of-this-guide}
 
-#### Ever felt like someone knew how to push your buttons and despite how uncertain you were of believing or doing something, somehow they were able to make you believe or do something else? Ever felt like someone was trying to control you or force you into situations you do not wish to participate in?
+> ### Ever felt like someone knew how to push your buttons and despite how uncertain you were of believing or doing something, somehow they were able to make you believe or do something else? Ever felt like someone was trying to control you or force you into situations you do not wish to participate in?
 
-**You could be dealing with a controlling person and have found yourself in a manipulative relationship.**
+#### 
+
+#### **You could be dealing with a controlling person and have found yourself in a manipulative relationship.**
 
 This is not limited to behaviour in romantic relationships. You can be manipulated by partners, family, friends, carers, colleagues, teachers - any situation where you feel you are being emotionally abused or manipulated into actions and situations you do not want to be a part of.
 
