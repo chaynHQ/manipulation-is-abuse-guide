@@ -1,14 +1,16 @@
 /* heading fonts */
-@import 'https://fonts.googleapis.com/css?family=Fredoka+One';
+@font-face {
+  font-family: 'Quicksand-Regular';
+}
 
 /* page background */ body { background-color: #FAFAFA;}
 
 
 /* body font */ 
-h1 { font-size: 3em; font-family: "Fredoka One";}
-h2 { font-size: 2em; font-family: "Fredoka One";}
-h3 { font-size: 1em; font-family: "Fredoka One";}
-h4 { font-size: 0.8em; font-family: "Helvetica"; font-weight: 200;}
+h1 { font-size: 3em;}
+h2 { font-size: 2em;}
+h3 { font-size: 1em;}
+h4 { font-size: 0.8em;}
 body, * { font-family: Helvetica, sans-serif; font-size: 16px; font-weight: 200; }
 
 /* table of contents */.book-summary{ background-color: #edebe8;}
