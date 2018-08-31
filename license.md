@@ -1,4 +1,4 @@
-# Who made this? {#license}
+# Who made this? {license}
 
 This guide is a project by [CHAYN](http://chayn.co/), an open-source project that uses technology to empower women against violence and oppression so they can live happier and healthier lives. You can see our Impact reports [here](/chayn.gitbooks.io/impact).
 
