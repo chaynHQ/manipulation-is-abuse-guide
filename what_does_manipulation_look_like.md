@@ -24,7 +24,7 @@ This could include spreading misinformation about you to others, and / or emphas
 
 ## Isolation
 
-## ![](/assets/everyone_knows_you_re_bad %281%29.gif)
+## ![](/assets/everyone_knows_you_are_bad.gif)
 
 **This might sound like: "I don't like your parents, they are not good to you and I don't want you to see them”, or telling you which friends you’re allowed to see.**
 
