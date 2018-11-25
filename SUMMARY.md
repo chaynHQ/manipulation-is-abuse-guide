@@ -1,13 +1,18 @@
 # Table of contents
 
 * [Hello](README.md)
-* [What the guide is for](aims.md)
-* [Take the quiz](quiz.md)
-* [What does manipulation look like?](what_does_manipulation_look_like.md)
-* [Resources](resources.md)
-* [Who made this?](license.md)
 
 ## Português \(Brasil\)
 
-* [Untitled](portugues-brasil/untitled.md)
+* [Starting Page](portugues-brasil/starting-page-1.md)
+* [Untitled](portugues-brasil/starting-page.md)
+
+## English
+
+* [Hello](english/hello.md)
+* [What the guide is for](english/aims.md)
+* [Take the quiz](english/quiz.md)
+* [What does manipulation look like?](english/what_does_manipulation_look_like.md)
+* [Resources](english/resources.md)
+* [Who made this?](english/license.md)
 

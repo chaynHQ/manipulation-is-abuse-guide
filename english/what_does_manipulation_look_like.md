@@ -12,7 +12,7 @@ Do any of these sound familiar to you in any of your relationships?
 
 ## Controlling other people’s perceptions of you
 
-![](.gitbook/assets/they_only_like_you_because_i_lie_to_them_about_you.gif)
+![](../.gitbook/assets/they_only_like_you_because_i_lie_to_them_about_you.gif)
 
 ### This might sound like: “They only like you because I lie to them about you!”
 
@@ -20,13 +20,13 @@ This could include spreading misinformation about you to others, and / or emphas
 
 ## Isolation
 
-## ![](.gitbook/assets/everyone_knows_you_are_bad.gif)
+## ![](../.gitbook/assets/everyone_knows_you_are_bad.gif)
 
 **This might sound like: "I don't like your parents, they are not good to you and I don't want you to see them”, or telling you which friends you’re allowed to see.**
 
 ## Financial control
 
-## ![](.gitbook/assets/quit_your_job.gif)
+## ![](../.gitbook/assets/quit_your_job.gif)
 
 ### This might sound like: "You spend too much on yourself" / "Dear, you know you can't be trusted with money. It's best that I'm in charge."
 
@@ -36,7 +36,7 @@ Financial abuse is one of the most powerful ways to keep someone trapped in a re
 
 ## Dependence
 
-![](.gitbook/assets/what_would_i_do_without_you.gif)
+![](../.gitbook/assets/what_would_i_do_without_you.gif)
 
 ### This might come out in the form of drastic statements about what the manipulator might do if you don’t do what they ask, or over-reactions, such as obsessively calling you if you don’t answer at first.
 
@@ -44,7 +44,7 @@ This could be a form of emotional blackmail and might appear in exaggerated, dra
 
 ## Using your beliefs to control you
 
-## ![](.gitbook/assets/terrible.gif)
+## ![](../.gitbook/assets/terrible.gif)
 
 ### This might sound like: “How will I get to heaven if I have a child like you?!” / “You have no respect and will never pray for me when I am gone.”This exploits your beliefs for the benefit of the manipulator,resulting in controlling you and your actions.
 
@@ -52,7 +52,7 @@ They may refer to your faith or a higher calling as the reason you need to do so
 
 ## Not allowed to defend yourself
 
-## ![](.gitbook/assets/you_dont_respect_elders.gif)
+## ![](../.gitbook/assets/you_dont_respect_elders.gif)
 
 ### This might sound like: “I’m sure he / she only has your best interests at heart” / “What did you do to make them feel like that?”
 
@@ -62,7 +62,7 @@ They will act as though you are the one who has done something wrong and hurt th
 
 ## People will defend your abuser
 
-## ![](.gitbook/assets/what_did_you_do.gif)
+## ![](../.gitbook/assets/what_did_you_do.gif)
 
 ### **This might sound like: “I’m sure he / she only has your best interests at heart” / “What did you do to make them feel like that?” / “he / she only yelled at you because you made him / her so angry with what you did”**
 
@@ -70,7 +70,7 @@ What happens? Others around you may not realise the extent or persistence of the
 
 ## Keeping the status quo is more important than your health
 
-## ![](.gitbook/assets/old_and_set_in_their_ways.gif)
+## ![](../.gitbook/assets/old_and_set_in_their_ways.gif)
 
 ### **This might sound like: “They are old and set in their ways, it’s our culture.” / “They only want the best for you, I can’t believe you are being so dramatic about this / mean to them.”**
 
@@ -78,7 +78,7 @@ What happens? People may make excuses for an abuser's behaviour, even if they kn
 
 ## Silent treatment
 
-## ![](.gitbook/assets/doesn_t_matter_that_i_m_upset.gif)
+## ![](../.gitbook/assets/doesn_t_matter_that_i_m_upset.gif)
 
 ### **This might sound like: “Why am I such an awful person…” / “How can I make this better…” / “It doesn’t matter I’m upset because I’ve made them angry…”**
 
@@ -86,7 +86,7 @@ What happens? Controlling people may stop talking to you completely to exert pre
 
 ## The ‘no way out’ question
 
-## ![](.gitbook/assets/how_could_you_say_this_to_me.gif)
+## ![](../.gitbook/assets/how_could_you_say_this_to_me.gif)
 
 ### This might sound like: “How could you say that to me?”
 
@@ -94,7 +94,7 @@ What happens? You might think you are given a choice by being asked a question b
 
 ## A question disguised as a statement
 
-## ![](.gitbook/assets/pulling_my_strings.gif)
+## ![](../.gitbook/assets/pulling_my_strings.gif)
 
 ### This might sound like: “I was wondering why you…” / “Perhaps you could…” / “I wish you would…”
 
@@ -102,7 +102,7 @@ What happens? Manipulative people avoid asking questions because they do not wan
 
 ## Lies
 
-## ![](.gitbook/assets/am_i_crazy.gif)
+## ![](../.gitbook/assets/am_i_crazy.gif)
 
 ### This might sound like: “They only like you because I lie to them about you!” / “I never said that! You are imagining things again.” or “You are nowhere near as beautiful as she is” / “You are nothing compared to them”.
 
@@ -110,7 +110,7 @@ What happens? Manipulators may react aggressively to avoid answering as they may
 
 ## Guilt-tripping
 
-## ![](.gitbook/assets/if_you_loved_me.gif)
+## ![](../.gitbook/assets/if_you_loved_me.gif)
 
 ### This might sound like: “If you loved me…” / “Every decent person would…” or “You should be grateful you have me…” / “Do you think anyone else would want you?” / “You would be nothing without me”, or making you feel guilty for normal actions - e.g. “Why did you get your haircut without telling me?”
 
@@ -118,7 +118,7 @@ What happens? Controlling people use statements to make you feel guilty about do
 
 ## Normalisation
 
-![](.gitbook/assets/what_will_people_say_if_you_leave.gif)
+![](../.gitbook/assets/what_will_people_say_if_you_leave.gif)
 
 ### This might sound like: “What will people say if you leave? You made your decision and you have to stop being so ungrateful.”
 
@@ -126,7 +126,7 @@ What happens? Normalisation refers to social processes through which ideas and a
 
 ## Universal statements
 
-## ![](.gitbook/assets/you_forget_to_do_this_every_time.gif)
+## ![](../.gitbook/assets/you_forget_to_do_this_every_time.gif)
 
 ### This may sound like: “You are so lazy!” / “You forget to do this every time!” / “Everyone knows that you’re bad.”
 
@@ -134,7 +134,7 @@ What happens? These generalise a person’s character or behaviour in a negative
 
 ## Invalidate feelings
 
-## ![](.gitbook/assets/so_what_if_you_got_good_grades.gif)
+## ![](../.gitbook/assets/so_what_if_you_got_good_grades.gif)
 
 ### This may sound like: “You’re blowing things way out of proportion.” OR: “Your anger is a big of an overreaction.”
 
