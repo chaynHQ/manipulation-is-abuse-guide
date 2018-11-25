@@ -16,4 +16,7 @@
 * [Olá](portugues-brasil/ola.md)
 * [Para que é este guia:](portugues-brasil/starting-page-1.md)
 * [Faça o teste](portugues-brasil/starting-page.md)
+* [Como identificar a manipulação?](portugues-brasil/como-identificar-a-manipulacao.md)
+* [Recursos](portugues-brasil/recursos.md)
+* [Quem elaborou este guia?](portugues-brasil/quem-elaborou-este-guia.md)
 
