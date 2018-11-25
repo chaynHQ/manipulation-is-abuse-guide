@@ -14,6 +14,6 @@
 ## Português \(Brasil\)
 
 * [Olá](portugues-brasil/ola.md)
-* [Starting Page](portugues-brasil/starting-page-1.md)
-* [Untitled](portugues-brasil/starting-page.md)
+* [Para que é este guia:](portugues-brasil/starting-page-1.md)
+* [Faça o teste](portugues-brasil/starting-page.md)
 
