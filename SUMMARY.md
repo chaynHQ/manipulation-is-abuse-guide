@@ -13,7 +13,7 @@
 
 ## Português \(Brasil\)
 
+* [Olá](portugues-brasil/ola.md)
 * [Starting Page](portugues-brasil/starting-page-1.md)
 * [Untitled](portugues-brasil/starting-page.md)
-* [Olá](portugues-brasil/ola.md)
 
