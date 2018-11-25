@@ -1,10 +1,8 @@
-# What the guide is for {#aims-of-this-guide}
+# What the guide is for
 
 > _Ever felt like someone knew how to push your buttons and despite how uncertain you were of believing or doing something, somehow they were able to make you believe or do something else? Ever felt like someone was trying to control you or force you into situations you do not wish to participate in?_
 
-
-
-#### **You could be dealing with a controlling person and have found yourself in a manipulative relationship.**
+## **You could be dealing with a controlling person and have found yourself in a manipulative relationship.**
 
 This is not limited to behaviour in romantic relationships. You can be manipulated by partners, family, friends, carers, colleagues, teachers - any situation where you feel you are being emotionally abused or manipulated into actions and situations you do not want to be a part of.
 
@@ -17,15 +15,12 @@ This is a list of things you can think about, to help you increase your safety.
 **If you are still in the relationship:**
 
 * See what are the different options for a safe and happy future - do you want to confront your significant other, or do you want to leave? Or do you think you have a third option?
-
 * Keep important and emergency telephone numbers with you \(see the resources section below\)
 
 **If you decide to leave:**
 
 * Try not to place yourself in a vulnerable position or to isolate yourself
-
 * Consider telling your employer or others at your place of work - particularly if you think your abuser may try to contact you there
-
 * If you live with the person, spend time planning where would be a safe place for you to stay as soon as you leave
 
 **If your abuser continues to \(try to\) manipulate and control you:**
@@ -34,9 +29,5 @@ This is a list of things you can think about, to help you increase your safety.
 
 These three scenarios have an emphasis on romantic relationships, but the principles behind all of them apply to any manipulative situation you may find yourself in, and need to remove yourself from.Even if you don't feel your safety is at risk, you could still be in a manipulative relationship. Please do read on if you feel this could be the case.
 
-#### Regardless of what may drive someone to be controlling, you do not deserve to be subjected to, or continue to accept, this aggression.
-
-#### 
-
-
+## Regardless of what may drive someone to be controlling, you do not deserve to be subjected to, or continue to accept, this aggression.
 
