@@ -1,4 +1,4 @@
-# Hello
+# Manipulation is Abuse
 
 How to identify manipulative situations and people, & how to deal with them. Crowdsourced by survivors.
 
