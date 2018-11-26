@@ -39,13 +39,13 @@ Sadly, if the manipulator is aware of these vulnerabilities, they may try to exp
 
 We know that women are more likely to experience abuse but there are other factors that we need to keep in mind. Some groups are more vulnerable than others when it comes to controlling relationships, including \(but not limited to\):
 
-* > * Minorities and marginalised groups 
-  > * Recent immigrants 
-  > * Elders who are facing abuse and manipulation from caregivers 
-  > * Parents in fear of losing children 
-  > * Individuals in forced marriages 
-  > * Queer communities
-  > * Physically disabled
+* Minorities and marginalised groups 
+* Recent immigrants 
+* Elders who are facing abuse and manipulation from caregivers 
+* Parents in fear of losing children 
+* Individuals in forced marriages 
+* Queer communities
+* Physically disabled
 
 Here’s the bottom line: If you are in an abusive relationship with anyone, you deserve to get the help you need.
 
