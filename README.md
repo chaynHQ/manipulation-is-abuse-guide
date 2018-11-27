@@ -8,7 +8,9 @@ How to identify manipulative situations and people, & how to deal with them. Cro
 
 ### This guide will help you identify manipulative situations and find support to get yourself out of a controlling relationship.
 
-{% page-ref page="portugues/ola.md" %}
+{% page-ref page="english-1/" %}
+
+{% page-ref page="portugues/" %}
 
 
 
