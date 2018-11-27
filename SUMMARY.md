@@ -16,5 +16,3 @@
   * [Recursos](portugues/recursos.md)
   * [Quem elaborou este guia?](portugues/quem-elaborou-este-guia.md)
 
-## English
-
